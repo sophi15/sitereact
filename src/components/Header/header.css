@@ -1,0 +1,15 @@
+
+.tela-inteira {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    background-color: rgb(244, 129, 244);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 50px;
+    height: 10%;
+}
